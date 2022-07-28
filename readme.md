@@ -24,5 +24,5 @@ Made by **Aditya Kadali**
 
 ## Links:
 
-- [Live Demo]()
-- [Source code]()
+- [Live Demo](https://dancing-home.netlify.app/)
+- [Source code](https://github.com/Adityakadali/dancing-homepage)
