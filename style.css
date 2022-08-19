@@ -32,6 +32,12 @@ body {
   height: 100vh;
 }
 
+@media (max-width: 760px) {
+  [alt="model"] {
+    display: none;
+  }
+}
+
 .logo {
   height: 40px;
   position: absolute;
